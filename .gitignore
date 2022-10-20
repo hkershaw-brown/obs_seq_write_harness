@@ -1,0 +1,9 @@
+*.o
+*.mod
+Makefile
+dart_log.nml
+dart_log.out
+obs_def_mod.f90
+obs_kind_mod.f90
+preprocess
+write_obs_seq
